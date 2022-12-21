@@ -12,6 +12,7 @@ public class Car implements ITransport {
             NameOfModel=name;
             Price=price;
         }
+
         @Override
         public Model clone(){
             return new Model(NameOfModel,Price);
@@ -21,6 +22,10 @@ public class Car implements ITransport {
             return obj.getClass() == Model.class &&
                     ((Model) obj).Price == Price &&
                     ((Model) obj).NameOfModel.equals(NameOfModel);
+        }
+        @Override
+        public int hashCode(){
+            return  (int)Price +NameOfModel.hashCode();
         }
     }
 
@@ -124,6 +129,9 @@ public class Car implements ITransport {
         }
         else if(price<0) throw new ModelPriceOutOfBoundsException("цена не может быть отрицателньой",price);
     }
+    private void addNewModel(Model m) throws DuplicateModelNameException {
+        addNewModel(m.NameOfModel,m.Price);
+    }
     public void deleteModel(String name) throws NoSuchModelNameException {
         Model[] result = new Model[Models.length-1];
         int index=0;
@@ -156,13 +164,14 @@ public class Car implements ITransport {
     public Car clone(){
 
         try {
-            Car res = (Car)super.clone();
-            for (int i = 0; i < getModelsCount(); i++) {
-                res.addNewModel(Models[i].NameOfModel, Models[i].Price);
+            Car c= (Car)super.clone();
+            c.Models=new Model[0];
+            for (Model m:Models) {
+                c.addNewModel(m);
             }
-            return res;
+            return c;
 
-        } catch (DuplicateModelNameException | CloneNotSupportedException e) {
+        } catch (CloneNotSupportedException | DuplicateModelNameException e) {
             throw new RuntimeException(e);
         }
 
@@ -170,12 +179,18 @@ public class Car implements ITransport {
 
     @Override
     public int hashCode(){
-        return Mark.length()+getModelsCount();
+        double[ ] s = getPriceOfAllModels();
+        double sum=0;
+        for (double i:s) {
+            sum+=i;
+        }
+        return getMark().length() + (int)sum;
     }
     @Override
     public boolean equals(Object obj){
-        if ((obj.getClass()!= Car.class || !((Car) obj).getMark().equals(Mark) ||
-                ((Car) obj).getModelsCount()!=Models.length)){
+        if (obj==this) return true;
+        if ( !(obj instanceof Car) || !((Car) obj).getMark().equals(Mark) ||
+                ((Car) obj).getModelsCount()!=Models.length){
             return false;
         }
         for (int i=0;i<getModelsCount();i++){

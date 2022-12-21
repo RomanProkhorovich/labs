@@ -2,7 +2,7 @@ package task5;
 
 import java.io.Serializable;
 
-public interface ITransport extends Serializable {
+public interface ITransport extends Serializable, Cloneable {
     public String getMark();
     public String[] getNameOfAllModels();
     public double[] getPriceOfAllModels();

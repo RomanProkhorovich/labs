@@ -1,8 +1,11 @@
 package task5;
 
 import java.io.*;
+import java.lang.reflect.InvocationTargetException;
 
 public class Transport {
+
+
     public static double getAvarege(ITransport transport){
         double[] mas=transport.getPriceOfAllModels();
         int count=transport.getModelsCount();
@@ -136,6 +139,8 @@ public class Transport {
             return motorcycle1;
         }
     }
+
+
 }
 
 
