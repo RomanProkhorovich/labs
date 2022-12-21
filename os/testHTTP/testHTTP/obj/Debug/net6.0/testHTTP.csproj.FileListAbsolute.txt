@@ -1,0 +1,15 @@
+D:\labs\os\testHTTP\testHTTP\bin\Debug\net6.0\testHTTP.exe
+D:\labs\os\testHTTP\testHTTP\bin\Debug\net6.0\testHTTP.deps.json
+D:\labs\os\testHTTP\testHTTP\bin\Debug\net6.0\testHTTP.runtimeconfig.json
+D:\labs\os\testHTTP\testHTTP\bin\Debug\net6.0\testHTTP.dll
+D:\labs\os\testHTTP\testHTTP\bin\Debug\net6.0\testHTTP.pdb
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.csproj.AssemblyReference.cache
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.AssemblyInfoInputs.cache
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.AssemblyInfo.cs
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.csproj.CoreCompileInputs.cache
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.dll
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\refint\testHTTP.dll
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.pdb
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\testHTTP.genruntimeconfig.cache
+D:\labs\os\testHTTP\testHTTP\obj\Debug\net6.0\ref\testHTTP.dll

@@ -1,0 +1,11 @@
+D:\labs\os\NewMivs1\NewMivs1\bin\Debug\NewMivs1.exe.config
+D:\labs\os\NewMivs1\NewMivs1\bin\Debug\NewMivs1.exe
+D:\labs\os\NewMivs1\NewMivs1\bin\Debug\NewMivs1.pdb
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.csproj.AssemblyReference.cache
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.csproj.SuggestedBindingRedirects.cache
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.Form1.resources
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.Properties.Resources.resources
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.csproj.GenerateResource.cache
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.csproj.CoreCompileInputs.cache
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.exe
+D:\labs\os\NewMivs1\NewMivs1\obj\Debug\NewMivs1.pdb

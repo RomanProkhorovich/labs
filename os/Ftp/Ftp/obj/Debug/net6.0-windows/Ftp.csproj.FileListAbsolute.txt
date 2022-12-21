@@ -1,0 +1,17 @@
+D:\labs\os\Ftp\Ftp\bin\Debug\net6.0-windows\Ftp.exe
+D:\labs\os\Ftp\Ftp\bin\Debug\net6.0-windows\Ftp.deps.json
+D:\labs\os\Ftp\Ftp\bin\Debug\net6.0-windows\Ftp.runtimeconfig.json
+D:\labs\os\Ftp\Ftp\bin\Debug\net6.0-windows\Ftp.dll
+D:\labs\os\Ftp\Ftp\bin\Debug\net6.0-windows\Ftp.pdb
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.csproj.AssemblyReference.cache
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.Form1.resources
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.csproj.GenerateResource.cache
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.AssemblyInfoInputs.cache
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.AssemblyInfo.cs
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.csproj.CoreCompileInputs.cache
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.dll
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\refint\Ftp.dll
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.pdb
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\Ftp.genruntimeconfig.cache
+D:\labs\os\Ftp\Ftp\obj\Debug\net6.0-windows\ref\Ftp.dll

@@ -1,0 +1,26 @@
+﻿  DictionaryNode.cpp
+  lab4.cpp
+D:\labs\os\lab4\lab4\DictionaryNode.h(26,1): error C2440: return: невозможно преобразовать "int" в "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\lab4\lab4\DictionaryNode.h(26,1): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+D:\labs\os\lab4\lab4\DictionaryNode.h(18): message : во время компиляции функции-члена класс шаблон "std::string DictionaryNode<T,D>::ToString(void)"
+          with
+          [
+              T=int,
+              D=char
+          ]
+D:\labs\os\lab4\lab4\Dictionary.h(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string DictionaryNode<T,D>::ToString(void)"
+          with
+          [
+              T=int,
+              D=char
+          ]
+D:\labs\os\lab4\lab4\Dictionary.h(24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DictionaryNode<T,D>"
+          with
+          [
+              T=int,
+              D=char
+          ]
+D:\labs\os\lab4\lab4\Dictionary.h(20): message : во время компиляции функции-члена класс шаблон "std::string Dictionary<int,char>::ToString(void)"
+D:\labs\os\lab4\lab4\lab4.cpp(12): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::string Dictionary<int,char>::ToString(void)"
+D:\labs\os\lab4\lab4\lab4.cpp(11): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Dictionary<int,char>"
+  Создание кода...

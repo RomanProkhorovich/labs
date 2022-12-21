@@ -1,0 +1,11 @@
+D:\labs\os\MailLab\bin\Debug\MailLab.exe.config
+D:\labs\os\MailLab\bin\Debug\MailLab.exe
+D:\labs\os\MailLab\bin\Debug\MailLab.pdb
+D:\labs\os\MailLab\obj\Debug\MailLab.csproj.AssemblyReference.cache
+D:\labs\os\MailLab\obj\Debug\MailLab.csproj.SuggestedBindingRedirects.cache
+D:\labs\os\MailLab\obj\Debug\MailLab.Properties.Resources.resources
+D:\labs\os\MailLab\obj\Debug\MailLab.csproj.GenerateResource.cache
+D:\labs\os\MailLab\obj\Debug\MailLab.csproj.CoreCompileInputs.cache
+D:\labs\os\MailLab\obj\Debug\MailLab.exe
+D:\labs\os\MailLab\obj\Debug\MailLab.pdb
+D:\labs\os\MailLab\obj\Debug\MailLab.Form1.resources

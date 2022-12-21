@@ -1,0 +1,18 @@
+﻿  Dict.cpp
+D:\labs\os\Lab6OS_DLL\Node.h(8,9): warning C4251: Node::key: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS_DLL\Node.h(9,9): warning C4251: Node::value: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS_DLL\Dict.hpp(26,51): warning C4190: для "Dict_Outout" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS_DLL\Dict.cpp(126,94): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\Lab6OS_DLL\Dict.cpp(130,99): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\Lab6OS_DLL\Dict.cpp(157,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\Lab6OS_DLL\Dict.cpp(163,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Node.cpp
+D:\labs\os\Lab6OS_DLL\Node.h(8,9): warning C4251: Node::key: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS_DLL\Node.h(9,9): warning C4251: Node::value: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  Создание кода...
+  Lab6OS_DLL.vcxproj -> D:\labs\os\Lab6OS\x64\Debug\Lab6OS_DLL.dll

@@ -1,0 +1,11 @@
+D:\labs\os\lab2MIVS\lab2MIVS\bin\Debug\lab2MIVS.exe.config
+D:\labs\os\lab2MIVS\lab2MIVS\bin\Debug\lab2MIVS.exe
+D:\labs\os\lab2MIVS\lab2MIVS\bin\Debug\lab2MIVS.pdb
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.csproj.AssemblyReference.cache
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.csproj.SuggestedBindingRedirects.cache
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.Properties.Resources.resources
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.csproj.GenerateResource.cache
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.csproj.CoreCompileInputs.cache
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.exe
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.pdb
+D:\labs\os\lab2MIVS\lab2MIVS\obj\Debug\lab2MIVS.Form1.resources

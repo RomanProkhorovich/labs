@@ -1,0 +1,8 @@
+﻿  lab6OS.cpp
+D:\labs\os\Lab6OS\Node.h(7,9): warning C4251: Node::key: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS\Node.h(8,9): warning C4251: Node::value: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Node"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xstring(5186): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+D:\labs\os\Lab6OS\lab6OS.cpp(17,12): warning C4101: Dict_Add: неиспользованная локальная переменная
+D:\labs\os\Lab6OS\lab6OS.cpp(18,12): warning C4101: Dict_Delete: неиспользованная локальная переменная
+  Lab6OS.vcxproj -> D:\labs\os\Lab6OS\x64\Debug\Lab6OS.exe

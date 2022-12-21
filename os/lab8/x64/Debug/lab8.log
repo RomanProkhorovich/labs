@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab4OS.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Dict.cpp
+D:\labs\os\lab8\Dict.cpp(94,94): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\lab8\Dict.cpp(98,99): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\lab8\Dict.cpp(125,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\labs\os\lab8\Dict.cpp(131,67): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab8.cpp
+  Node.cpp
+  Создание кода...
+  lab8.vcxproj -> D:\labs\os\lab8\x64\Debug\lab8.exe
